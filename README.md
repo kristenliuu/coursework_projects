@@ -11,3 +11,7 @@ A collections of projects completed through CS courses at Northeastern Universit
 
 1. Marble Solitaire -- Implementation of several variations of the Marble Solitaire game 
 
+
+## Foundations of Cybersecurity (CY 2550): Python
+
+1. Password Generator -- Implementation of a password generator based on user input
